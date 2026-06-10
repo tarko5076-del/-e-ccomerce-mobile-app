@@ -1,0 +1,1 @@
+safeAreaView tag this important to give a padding for the inside text.
